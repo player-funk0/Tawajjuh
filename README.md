@@ -179,3 +179,5 @@ concretely (see `report.md` Sections 10-12 for full details):
   uses existing engines rather than pretending to train ASR from scratch,
   and the report states plainly where offline Egyptian-dialect accuracy is
   expected to be weaker, rather than overselling it.
+
+I'm Just made it for fun
