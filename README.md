@@ -1,4 +1,4 @@
-# From-Scratch Attention Model for Device Command Recognition
+# From-Scratch Attention Model for Device Command Recognition(Tawajjuh)
 
 A self-attention neural network -- the core mechanism behind Transformers --
 implemented entirely from raw numpy (no PyTorch, no autograd), with
